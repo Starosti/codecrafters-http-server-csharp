@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "codecrafters-http-server": {
+      "commandName": "Project"
+    },
+    "absolute directory": {
+      "commandName": "Project",
+      "commandLineArgs": "--directory C:\\Users\\CaganA\\Desktop\\codecrafters\\codecrafters-http-server-csharp\\public"
+    },
+    "relative directory": {
+      "commandName": "Project",
+      "commandLineArgs": "--directory public"
+    }
+  }
+}
